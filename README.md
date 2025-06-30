@@ -1,6 +1,18 @@
-<center>
-<h1>mhilliard - sntx</h1>
-<img style="text-align:center;" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=syntaxerror019&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-<img style="text-align:center;"align="center" src="https://github-readme-stats.vercel.app/api?username=syntaxerror019&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-<img style="text-align:center;"align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syntaxerror019&layout=compact&theme=cobalt&hide_border=true" />
-</center>
+# About Me
+---
+
+- Miles Hilliard
+- (MVTHS Student)[https://mvthsengineering.com/]
+- Member of (Sunk Robotics)[https://sunkrobotics.com]
+- Won New England Regional MATE ROV robotics competition in 2022, 2023, and 2024!
+- Placed 3rd in Tenessee for MATE ROV International Competition
+- (Ham radio enthusiast)[https://www.mileshilliard.com/tags/ham]
+- (My Website)[https://mileshilliard.com/]
+
+# My Skills
+---
+- Electrical Engineering & Design
+- PCB Development
+- Programming in Python, C++, .NET, JS, and more.
+- Linux Experience
+- Collaboration with Teams
