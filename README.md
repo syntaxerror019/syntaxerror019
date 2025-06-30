@@ -1,5 +1,4 @@
 # About Me
----
 
 - Miles Hilliard
 - (MVTHS Student)[https://mvthsengineering.com/]
@@ -10,7 +9,7 @@
 - (My Website)[https://mileshilliard.com/]
 
 # My Skills
----
+
 - Electrical Engineering & Design
 - PCB Development
 - Programming in Python, C++, .NET, JS, and more.
