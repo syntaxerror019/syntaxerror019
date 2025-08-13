@@ -14,4 +14,5 @@
 - PCB Development
 - Programming in Python, C++, .NET, JS, and more.
 - Linux Experience
+- RF & Radio Projects
 - Collaboration with Teams
